@@ -2,6 +2,7 @@
 
 ### 設定好access Token後 再main下方輸入相關資料 即可一次下載所有專案
 
+* Python 3.9
 * username 是註冊帳號的mail 不是暱稱
 * access_token 申請的Token
 * organization_name organization 名稱
