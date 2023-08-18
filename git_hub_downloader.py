@@ -56,8 +56,8 @@ if __name__ == '__main__':
     t_folder = ""  # save path name
     os.makedirs(t_folder, exist_ok=True)
 
-    username = "JakeLiang0610"  # git hub mail not nickname
-    access_token = "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"  # access token
+    username = ""  # git hub mail not nickname
+    access_token = ""  # access token
     organization_name = ""  # organization_name
 
     repositories = get_repositories_from_github(organization_name, access_token)
